@@ -5,9 +5,11 @@ SQL sentences for Azure content and administration
 **bulk**
 
 **tables_and_columns**
+
 List of tables and fields name with details of fields.
 
 **tables_sizes**
+
 List of database tables.
 
 ## Triggers
